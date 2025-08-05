@@ -44,10 +44,11 @@
 ## محتويات المشروع
 
 - [notebooks/burnout_analysis.ipynb](notebooks/burnout_analysis.ipynb)  
-- [report/burnout_report.pdf](report/burnout_report.pdf)  
-- [visualizations/gender_comparison.png](visualizations/gender_comparison.png)
+- [report/burnout_report.pdf](Report/burnout_report.pdf)  
+- [visualizations/gender_comparison.png](visualizations/)
 
 
 
 يمثل هذا المشروع تجربة تعليمية قيّمة، ساهمت في تعزيز فهمي لأساليب تحليل البيانات وكيفية توظيفها في دراسة قضايا واقعية تمس البيئة الجامعية.
+
 
