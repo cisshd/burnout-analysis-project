@@ -1,54 +1,54 @@
-تحليل بيانات: مستويات الاحتراق النفسي لدى طلاب الجامعة
-تم تنفيذ هذا المشروع ضمن معسكر نيوتك التقني - مسار تحليل البيانات باستخدام لغة Python، ويُعد أول تطبيق عملي لي في مجال تحليل البيانات.
+## University Students’ Burnout Data Analysis
 
-فكرة المشروع
-يهدف هذا المشروع إلى دراسة مستويات الاحتراق النفسي لدى طلاب الجامعة، وتحليل ارتباطها بعدة عوامل محتملة، مثل:
+This project was carried out as part of the NewTech Academy Data Analysis track using Python, and it represents my first practical application in the field of data analysis.
 
-السنة الدراسية
+## Project Idea
+The project aims to study burnout levels among university students and analyze their relationship with several potential factors, including:
 
-الجنس
+Academic year
 
-عدد ساعات المذاكرة
+Gender
 
-المعدل التراكمي
+Study hours
 
-الأدوات والتقنيات المستخدمة
-تم الاعتماد على الأدوات والبيئات التالية في تنفيذ التحليل:
+GPA
 
-لغة Python باستخدام مكتبات: pandas، seaborn، matplotlib
+## Tools and Technologies Used
+The following tools and environments were used to perform the analysis:
 
-بيئة Google Colab لتشغيل الأكواد وتحليل البيانات
+Python with libraries: pandas, seaborn, matplotlib
 
-منهجية العمل
-تم اتباع منهجية تحليل بيانات منهجية ومنظمة، شملت المراحل التالية:
+Google Colab for running code and analyzing data
 
-استكشاف البيانات
-جرى تحليل البيانات من خلال الإحصاءات الوصفية لفهم بنية البيانات العامة مثل المتوسط والانحراف المعياري.
+## Methodology
+A systematic data analysis methodology was followed, including the following stages:
 
-تنظيف البيانات
-تم التعامل مع القيم المكررة والناقصة أو غير الصحيحة لضمان جودة البيانات ودقتها.
+Data Exploration
+Descriptive statistics were used to understand the overall structure of the data, such as mean and standard deviation.
 
-التحليل الرقمي والمقارن
-أُجري تحليل للعلاقات بين مستوى الاحتراق النفسي والمتغيرات الأخرى باستخدام أدوات التحليل الكمي.
+Data Cleaning
+Duplicate, missing, or incorrect values were handled to ensure data quality and accuracy.
 
-التصور البياني
-تم إنشاء رسوم بيانية توضح الفروقات بين المجموعات المختلفة حسب الجنس والسنة الدراسية وساعات المذاكرة والمعدل التراكمي.
+Quantitative & Comparative Analysis
+Relationships between burnout levels and other variables were analyzed using quantitative analysis tools.
 
-أبرز النتائج
-أظهرت النتائج أن مستويات الاحتراق النفسي لدى الطالبات أعلى مقارنة بالطلاب.
+Data Visualization
+Graphs were created to illustrate differences between groups based on gender, academic year, study hours, and GPA.
 
-طلاب السنة الثانية والثالثة يعانون من مستويات احتراق نفسي أعلى من طلاب السنوات الأخرى.
+## Key Findings
 
-توجد علاقة ارتباط بين عدد ساعات المذاكرة والمعدل التراكمي ومستوى الاحتراق النفسي.
+Female students show higher burnout levels compared to male students.
 
-## محتويات المشروع
+Second- and third-year students experience higher burnout levels than students in other years.
 
-- [notebooks/burnout_analysis.ipynb](notebooks/burnout_analysis.ipynb)  
-- [report/burnout_report.pdf](Report/burnout_report.pdf)  
-- [visualizations/gender_comparison.png](visualizations/)
+There is a correlation between study hours, GPA, and burnout levels.
 
+## Project Contents
 
+[notebooks/burnout_analysis.ipynb](notebooks/burnout_analysis.ipynb)
 
-يمثل هذا المشروع تجربة تعليمية قيّمة، ساهمت في تعزيز فهمي لأساليب تحليل البيانات وكيفية توظيفها في دراسة قضايا واقعية تمس البيئة الجامعية.
+[report/burnout_report.pdf](Report/burnout_report.pdf)
 
+[visualizations/gender_comparison.png](visualizations/)
 
+This project provided a valuable learning experience, enhancing my understanding of data analysis methods and their application to real-world issues affecting the university environment.
